@@ -16,5 +16,7 @@ You can play Youtube in the background, no longer needs to keep the screen on!
   - time scroll bar
   - forward 5 sec
   - backward 5 sec
+- Play Mode
+  - auto play next song from youtube recommend list
 - Caching played music
 - Notification control
