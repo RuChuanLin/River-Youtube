@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_view_margin">8dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="bg_cover_height">180dp</dimen>
+    <dimen name="_8dp">8dp</dimen>
+    <dimen name="divider_size">8dp</dimen>
+    <dimen name="_4dp">4dp</dimen>
+</resources>
