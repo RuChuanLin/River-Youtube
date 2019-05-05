@@ -17,3 +17,4 @@ You can play Youtube in the background, no longer needs to keep the screen on!
   - forward 5 sec
   - backward 5 sec
 - Caching played music
+- Notification control
